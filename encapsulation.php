@@ -2,7 +2,7 @@
 
 class Employee
 {
-    public $baseSalary;
+    public $baseSalaryy;
     public $overtime;
     public $wage;
 
